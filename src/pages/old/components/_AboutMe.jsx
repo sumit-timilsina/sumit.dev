@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import '../styles/_AboutMe.css';
 
-const name = ['r', 'o', 'n'];
+const name = ['s', 'u', 'm' , 'i' , 't'];
 let alt = false;
 
 
